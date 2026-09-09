@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>O Banco Imobiliário utiliza a câmera para escanear o QR Code da mesa e conectar seu aparelho.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>O Banco Imobiliário utiliza a rede local para sincronizar sua carteira de jogador com a mesa central.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_bancoimo-p2p._tcp</string>
+		<string>_bancoimo-p2p._udp</string>
+	</array>
+</dict>
+</plist>

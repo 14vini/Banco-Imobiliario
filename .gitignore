@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+*.xcuserdatad/
+
+# Local build / scratch caches
+.build/
+.build_derived/
+scratch/
+scratch_module_cache/
+
+# SwiftPM
+.swiftpm/
